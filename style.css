@@ -36,3 +36,9 @@
   padding: 0%;
   margin: -8px 0 0 0;
 }
+.carousel-inner{
+  height: 630px;
+}
+.carousel-item{
+  object-fit: cover;
+}
