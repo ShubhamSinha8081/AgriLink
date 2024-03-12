@@ -49,6 +49,56 @@
   </div>
 </nav>
      </div>
+<!-- Category Navbar -->
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <a href="#" class="href"><i class="fas fa-tractor" style="color: #ffffff;"></i></a>
+    </a>
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink1" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown 1
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1">
+            <a class="dropdown-item" href="#">Link 1</a>
+            <a class="dropdown-item" href="#">Link 2</a>
+            <a class="dropdown-item" href="#">Link 3</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink2" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown 2
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink2">
+            <a class="dropdown-item" href="#">Link 1</a>
+            <a class="dropdown-item" href="#">Link 2</a>
+            <a class="dropdown-item" href="#">Link 3</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink3" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown 3
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink3">
+            <a class="dropdown-item" href="#">Link 1</a>
+            <a class="dropdown-item" href="#">Link 2</a>
+            <a class="dropdown-item" href="#">Link 3</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink4" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown 4
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink4">
+            <a class="dropdown-item" href="#">Link 1</a>
+            <a class="dropdown-item" href="#">Link 2</a>
+            <a class="dropdown-item" href="#">Link 3</a>
+          </div>
+        </li>
+      </ul>
+  </div>
+</nav>
 <!-- Image Slider code below -->
 <div class="slider-container">
 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
