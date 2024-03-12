@@ -55,6 +55,7 @@
     <a class="navbar-brand" href="#">
       <a href="#" class="href"><i class="fas fa-tractor" style="color: #ffffff;"></i></a>
     </a>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink1" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -97,6 +98,7 @@
           </div>
         </li>
       </ul>
+  </div>
   </div>
 </nav>
 <!-- Image Slider code below -->
